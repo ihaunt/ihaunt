@@ -2,7 +2,7 @@
 Bem vindo(a)!
 
 - 🌱 Sou Universitária em Análise e Desenvolvimento de Sistemas.
- Atualmente estudando as tecnologias: .NET, C#, Asp.NET, JavaScript, Nodejs, Fundamentos de CSS e HTML.
+- ✔ Atualmente estudando as tecnologias: .NET, C#, Asp.NET, JavaScript, Nodejs, Fundamentos de CSS e HTML.
 <div style="display: inline_block"><br>
  
   <img align="center" alt="Jenni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
