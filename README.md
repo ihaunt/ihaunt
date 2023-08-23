@@ -1,4 +1,4 @@
-### Olá eu sou a Jennifer Machado e esse é meu repositório.👋 
+### Olá, meu nome é Jennifer Machado e esse é meu repositório.👋 
 Bem vindo (a)!
 
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas e Atualmente estou estudando as tecnologias: .NET, C#, Asp.NET, JavaScript, Fundamentos de CSS e HTML.
