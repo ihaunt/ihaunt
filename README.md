@@ -10,7 +10,7 @@ Bem vindo(a)!
 - ✔  Estudando as tecnologias: .NET, C#, Asp.NET, Java Script, NodeJs, Fundamentos de CSS e HTML.
 <div style="display: inline_block"><br>
 
-<div>
+<div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihaunt&layout=compact&theme=radical"/>
 </div>
 <br>
