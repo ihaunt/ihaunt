@@ -5,9 +5,9 @@
 </div>
 
 <div>
-- 🌱 Universitária em Análise e Desenvolvimento de Sistemas (FMU).<br>
-- 🎓 Graduando em Marketing Digital & Data Science (FAM).<br>
-- ✔  Estudando as tecnologias: .NET, C#, Asp.NET, Java Script, NodeJs, Fundamentos de CSS e HTML.
+🌱 Universitária em Análise e Desenvolvimento de Sistemas (FMU).<br>
+🎓 Graduando em Marketing Digital & Data Science (FAM).<br>
+ ✔  Estudando as tecnologias: .NET, C#, Asp.NET, Java Script, NodeJs, Fundamentos de CSS e HTML.
 <div style="display: inline_block"><br>
 
 <div align="center">
