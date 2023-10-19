@@ -1,7 +1,7 @@
 
 ### 
-Olá, meu nome é Jennifer Machado e esse é meu repositório.👋 <br>
-Bem vindo(a)!
+<h2>Olá, meu nome é Jennifer Machado e esse é meu repositório.👋</h2> <br>
+<h3>Bem vindo(a)!</h3>
 </div>
 
 <div>
