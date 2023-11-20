@@ -4,7 +4,6 @@
 <h3>Bem vindo(a)!</h3> <br>
 </div>
 
-<h4> Sem medo de enfrentar desafios e ansiosa para contribuir para a revolução tecnológica..</h4> <br>
 <div>
 🌱 Universitária em Análise e Desenvolvimento de Sistemas (FMU).<br>
 🎓 Graduando em Marketing Digital & Data Science (FAM).<br>
