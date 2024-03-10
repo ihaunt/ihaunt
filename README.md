@@ -1,7 +1,7 @@
 
 ### 
 <img src='https://images.weserv.nl/?url=github.com/ihaunt.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d' />
-<h2>Olá, meu nome é Jennifer Machado e esse é meu repositório.👋</h2> <br>
+<h2>Hi, I'm Jennifer Machado.</h2> <br>
 <h3>Bem vindo(a)!</h3> <br>
 </div>
 
