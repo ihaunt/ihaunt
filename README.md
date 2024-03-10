@@ -6,7 +6,7 @@
 <br>
 
 ```javascript
-function dev (name, age, work) {
+function devFull (name, age, work) {
         this.name = name;
         this.age = age;
         this.work = work;
