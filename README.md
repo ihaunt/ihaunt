@@ -1,10 +1,24 @@
 
 ### 
 <img src='https://images.weserv.nl/?url=github.com/ihaunt.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d' />
-<h2>Hi, I'm Jennifer Machado.</h2> <br>
-<h3>Bem vindo(a)!</h3> <br>
+
+# Hi, I'm Jennifer Machado. </h1>
+<br>
+
+```javascript
+function dev (name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+}
+let jenniferMachado = new dev('jennifer Machado', 32, 'Fullstack developer and Geek');
+console.log(jenniferMachado);
+```
+
 </div>
 
+
+### About me:
 <div>
 🌱 Universitária em Análise e Desenvolvimento de Sistemas (FMU).<br>
 🎓 Graduada em Marketing Digital & Data Science (FAM).<br>
