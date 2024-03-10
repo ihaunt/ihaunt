@@ -11,7 +11,7 @@ function devFull (name, age, work) {
         this.age = age;
         this.work = work;
 }
-let jenniferMachado = new dev('jennifer Machado', 32, 'Fullstack developer and Geek');
+let jenniferMachado = new devFull ('jennifer Machado', 32, 'Fullstack developer and Geek');
 console.log(jenniferMachado);
 ```
 
